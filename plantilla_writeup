@@ -1,0 +1,76 @@
+#Plantilla de writeup
+
+### Writeup - [Nombre del reto o máquina]
+
+## 📌 Objetivo
+
+Descripción del objetivo del laboratorio.
+
+---
+
+## 🔍 Enumeración
+
+### Reconocimiento inicial
+- IP:
+- Dominio:
+- Puertos abiertos:
+- Servicios:
+
+### Tecnologías detectadas
+- Web server:
+- CMS:
+- Framework:
+
+### Hallazgos
+- Directorios encontrados:
+- Formularios:
+- Posibles vectores:
+
+---
+
+## 💥 Explotación
+
+### Vulnerabilidad encontrada
+Descripción de la falla detectada.
+
+### Procedimiento
+1.
+2.
+3.
+
+### Resultado
+Acceso inicial obtenido / prueba exitosa.
+
+---
+
+## 🛠️ Post-explotación
+
+### Acciones realizadas
+- Enumeración interna
+- Usuarios encontrados
+- Archivos sensibles
+- Escalada (si aplica)
+
+### Impacto
+Explicar qué tan grave sería en entorno real.
+
+---
+
+## 📚 Lecciones
+Que se aprendio del laboratorio.
+- 
+- 
+- 
+
+---
+
+## 📸 Evidencias
+
+![captura1](capturas/imagen1.png)
+
+![captura2](capturas/imagen2.png)
+
+---
+
+## ⚠️ Nota ética ⚠️
+Práctica realizada en entorno autorizado/laboratorio.
