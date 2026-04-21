@@ -15,3 +15,6 @@ Demostrar un pensamiento analitico, buenas practicas de documentación y demostr
 # Disclamer ⚖️
 
 Todo fue realizado en entornos autorizados o de pruebas
+
+## Writeup´s disponibles 🗂️
+
